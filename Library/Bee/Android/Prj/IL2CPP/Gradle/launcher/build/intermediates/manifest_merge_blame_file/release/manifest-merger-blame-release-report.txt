@@ -1,0 +1,193 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.BTK_Hackathon"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="33" />
+10-->C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-54
+19-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:19-51
+20    <uses-feature
+20-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-55
+22        android:required="false" />
+22-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-33
+23    <uses-feature
+23-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
+24        android:name="android.hardware.sensor.accelerometer"
+24-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-61
+25        android:required="false" />
+25-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+26    <uses-feature
+26-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-19:36
+27        android:name="android.hardware.touchscreen"
+27-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-52
+28        android:required="false" />
+28-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-33
+29    <uses-feature
+29-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:5-22:36
+30        android:name="android.hardware.touchscreen.multitouch"
+30-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-63
+31        android:required="false" />
+31-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-33
+32    <uses-feature
+32-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:5-25:36
+33        android:name="android.hardware.touchscreen.multitouch.distinct"
+33-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:9-72
+34        android:required="false" />
+34-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-33
+35
+36    <permission
+36-->[androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+37        android:name="com.DefaultCompany.BTK_Hackathon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+37-->[androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+38        android:protectionLevel="signature" />
+38-->[androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+39
+40    <uses-permission android:name="com.DefaultCompany.BTK_Hackathon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+40-->[androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+40-->[androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+41
+42    <application
+42-->C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+44        android:extractNativeLibs="true"
+44-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:18-50
+45        android:icon="@mipmap/app_icon"
+45-->C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-47
+46        android:label="@string/app_name" >
+46-->C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:48-80
+47        <meta-data
+47-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-30:33
+48            android:name="unity.splash-mode"
+48-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-45
+49            android:value="0" />
+49-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-30
+50        <meta-data
+50-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33:36
+51            android:name="unity.splash-enable"
+51-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-47
+52            android:value="True" />
+52-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-33
+53        <meta-data
+53-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
+54            android:name="unity.launch-fullscreen"
+54-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-51
+55            android:value="True" />
+55-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
+56        <meta-data
+56-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:50
+57            android:name="notch.config"
+57-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-40
+58            android:value="portrait|landscape" />
+58-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-47
+59        <meta-data
+59-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:36
+60            android:name="unity.auto-report-fully-drawn"
+60-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-57
+61            android:value="true" />
+61-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-33
+62        <meta-data
+62-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-45:36
+63            android:name="unity.strip-engine-code"
+63-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-51
+64            android:value="true" />
+64-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-33
+65
+66        <activity
+66-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:9-72:20
+67            android:name="com.unity3d.player.UnityPlayerGameActivity"
+67-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-70
+68            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+68-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-194
+69            android:enabled="true"
+69-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-35
+70            android:exported="true"
+70-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-36
+71            android:hardwareAccelerated="false"
+71-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-48
+72            android:launchMode="singleTask"
+72-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-44
+73            android:resizeableActivity="false"
+73-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:13-47
+74            android:screenOrientation="reverseLandscape"
+74-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-57
+75            android:theme="@style/BaseUnityGameActivityTheme" >
+75-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-62
+76            <intent-filter>
+76-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-61:29
+77                <category android:name="android.intent.category.LAUNCHER" />
+77-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:17-77
+77-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:27-74
+78
+79                <action android:name="android.intent.action.MAIN" />
+79-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:17-69
+79-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:25-66
+80            </intent-filter>
+81
+82            <meta-data
+82-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:13-65:40
+83                android:name="unityplayer.UnityActivity"
+83-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:17-57
+84                android:value="true" />
+84-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:17-37
+85            <meta-data
+85-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:13-68:40
+86                android:name="android.app.lib_name"
+86-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:67:17-52
+87                android:value="game" />
+87-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:68:17-37
+88            <meta-data
+88-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:69:13-71:40
+89                android:name="notch_support"
+89-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:70:17-45
+90                android:value="true" />
+90-->[:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:71:17-37
+91        </activity>
+92
+93        <provider
+93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+94            android:name="androidx.startup.InitializationProvider"
+94-->[androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+95            android:authorities="com.DefaultCompany.BTK_Hackathon.androidx-startup"
+95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+96            android:exported="false" >
+96-->[androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+97            <meta-data
+97-->[androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+98                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+99                android:value="androidx.startup" />
+99-->[androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+100            <meta-data
+100-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+101                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+101-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+102                android:value="androidx.startup" />
+102-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+103        </provider>
+104    </application>
+105
+106</manifest>

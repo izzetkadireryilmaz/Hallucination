@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\izzet\BTK_Hackathon\.utmp\RelWithDebInfo\5j4p3k2r\arm64-v8a'
+ninja: no work to do.

@@ -1,0 +1,337 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-75:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\izzet\.gradle\caches\transforms-3\1051d67a3fc9179338f419756fcf27ae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\izzet\.gradle\caches\transforms-3\bec9a300d545ea3ce6290f440d2e5fd4\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\izzet\.gradle\caches\transforms-3\948e039aad198d66b9b3ef38afbffd9e\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\izzet\.gradle\caches\transforms-3\fd06d34e18732994e74b7a3e7cb89bc2\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\izzet\.gradle\caches\transforms-3\4cd834be1819978133c13a674655279e\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\a2d53ad06f40c0bec911cc613dca7436\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\f6396027ac92092997a46dd06bf36901\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\02d7966a257683300049ee472cd9791b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\105c953c4a42529896f8ba30f7e6a177\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\2623c4b84f0d1741b41ea4d586582e4c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\7e7e77738756e6cc1f8cc875f99674bb\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\izzet\.gradle\caches\transforms-3\057f46cbf410e1e156e7631391b803ca\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\izzet\.gradle\caches\transforms-3\55faadff26ce3102f6b4895d37ed9e36\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\6b4fc069f9e70ea0dc7aa59fdd4c3c27\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\d0bd1e568fb08f49a68830d717ad56f8\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.games:games-activity:2.0.2] C:\Users\izzet\.gradle\caches\transforms-3\6c263f9b274272e8756b525bc7d98ffe\transformed\jetified-games-activity-2.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.games:games-frame-pacing:1.10.0] C:\Users\izzet\.gradle\caches\transforms-3\121b6b243cedf8bef90d462440e4bf24\transformed\jetified-games-frame-pacing-1.10.0\AndroidManifest.xml:1:1-3:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\0f6017f9086cb13d5074b2c32032e5ac\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\433ce99204ca75ea0a947007b8f2d6fe\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\bbdb4caadeba39954f5916f93a9a4f99\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\b4ecd87c7069ddf6cd964c3a6d828dfd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\d33ab72625923da81417b556e406915d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\ae9231ceea056915d521894927673c39\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\izzet\.gradle\caches\transforms-3\4ae79ead16e5d341db9b491319d35664\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\59a810ffc726956893343cc0b0ae6195\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\izzet\.gradle\caches\transforms-3\8eb12f9fa8e35baa4494eb626cbdc115\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\d51e26b35e7bf7c850d23fb888f29670\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\izzet\.gradle\caches\transforms-3\5096059b2f75706e2d9da902009cb28f\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:111-157
+	android:versionCode
+		INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:52-110
+	android:installLocation
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-51
+application
+ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+MERGED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:5-73:19
+MERGED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:5-73:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\izzet\.gradle\caches\transforms-3\1051d67a3fc9179338f419756fcf27ae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\izzet\.gradle\caches\transforms-3\1051d67a3fc9179338f419756fcf27ae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\b4ecd87c7069ddf6cd964c3a6d828dfd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\b4ecd87c7069ddf6cd964c3a6d828dfd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\d33ab72625923da81417b556e406915d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\d33ab72625923da81417b556e406915d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:18-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:48-80
+	android:icon
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-47
+supports-screens
+ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+uses-sdk
+INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\izzet\.gradle\caches\transforms-3\1051d67a3fc9179338f419756fcf27ae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\izzet\.gradle\caches\transforms-3\1051d67a3fc9179338f419756fcf27ae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\izzet\.gradle\caches\transforms-3\bec9a300d545ea3ce6290f440d2e5fd4\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\izzet\.gradle\caches\transforms-3\bec9a300d545ea3ce6290f440d2e5fd4\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\izzet\.gradle\caches\transforms-3\948e039aad198d66b9b3ef38afbffd9e\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\izzet\.gradle\caches\transforms-3\948e039aad198d66b9b3ef38afbffd9e\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\izzet\.gradle\caches\transforms-3\fd06d34e18732994e74b7a3e7cb89bc2\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\izzet\.gradle\caches\transforms-3\fd06d34e18732994e74b7a3e7cb89bc2\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\izzet\.gradle\caches\transforms-3\4cd834be1819978133c13a674655279e\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\izzet\.gradle\caches\transforms-3\4cd834be1819978133c13a674655279e\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\a2d53ad06f40c0bec911cc613dca7436\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\a2d53ad06f40c0bec911cc613dca7436\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\f6396027ac92092997a46dd06bf36901\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\f6396027ac92092997a46dd06bf36901\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\02d7966a257683300049ee472cd9791b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\02d7966a257683300049ee472cd9791b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\105c953c4a42529896f8ba30f7e6a177\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\105c953c4a42529896f8ba30f7e6a177\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\2623c4b84f0d1741b41ea4d586582e4c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\2623c4b84f0d1741b41ea4d586582e4c\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\7e7e77738756e6cc1f8cc875f99674bb\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\7e7e77738756e6cc1f8cc875f99674bb\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\izzet\.gradle\caches\transforms-3\057f46cbf410e1e156e7631391b803ca\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\izzet\.gradle\caches\transforms-3\057f46cbf410e1e156e7631391b803ca\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\izzet\.gradle\caches\transforms-3\55faadff26ce3102f6b4895d37ed9e36\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\izzet\.gradle\caches\transforms-3\55faadff26ce3102f6b4895d37ed9e36\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\6b4fc069f9e70ea0dc7aa59fdd4c3c27\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\6b4fc069f9e70ea0dc7aa59fdd4c3c27\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\d0bd1e568fb08f49a68830d717ad56f8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\d0bd1e568fb08f49a68830d717ad56f8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.games:games-activity:2.0.2] C:\Users\izzet\.gradle\caches\transforms-3\6c263f9b274272e8756b525bc7d98ffe\transformed\jetified-games-activity-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.games:games-activity:2.0.2] C:\Users\izzet\.gradle\caches\transforms-3\6c263f9b274272e8756b525bc7d98ffe\transformed\jetified-games-activity-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.games:games-frame-pacing:1.10.0] C:\Users\izzet\.gradle\caches\transforms-3\121b6b243cedf8bef90d462440e4bf24\transformed\jetified-games-frame-pacing-1.10.0\AndroidManifest.xml:2:2-70
+MERGED from [androidx.games:games-frame-pacing:1.10.0] C:\Users\izzet\.gradle\caches\transforms-3\121b6b243cedf8bef90d462440e4bf24\transformed\jetified-games-frame-pacing-1.10.0\AndroidManifest.xml:2:2-70
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\0f6017f9086cb13d5074b2c32032e5ac\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\0f6017f9086cb13d5074b2c32032e5ac\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\433ce99204ca75ea0a947007b8f2d6fe\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\433ce99204ca75ea0a947007b8f2d6fe\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\bbdb4caadeba39954f5916f93a9a4f99\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\bbdb4caadeba39954f5916f93a9a4f99\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\b4ecd87c7069ddf6cd964c3a6d828dfd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\b4ecd87c7069ddf6cd964c3a6d828dfd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\d33ab72625923da81417b556e406915d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\d33ab72625923da81417b556e406915d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\ae9231ceea056915d521894927673c39\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\ae9231ceea056915d521894927673c39\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\izzet\.gradle\caches\transforms-3\4ae79ead16e5d341db9b491319d35664\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\izzet\.gradle\caches\transforms-3\4ae79ead16e5d341db9b491319d35664\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\59a810ffc726956893343cc0b0ae6195\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\izzet\.gradle\caches\transforms-3\59a810ffc726956893343cc0b0ae6195\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\izzet\.gradle\caches\transforms-3\8eb12f9fa8e35baa4494eb626cbdc115\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\izzet\.gradle\caches\transforms-3\8eb12f9fa8e35baa4494eb626cbdc115\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\d51e26b35e7bf7c850d23fb888f29670\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\izzet\.gradle\caches\transforms-3\d51e26b35e7bf7c850d23fb888f29670\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\izzet\.gradle\caches\transforms-3\5096059b2f75706e2d9da902009cb28f\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\izzet\.gradle\caches\transforms-3\5096059b2f75706e2d9da902009cb28f\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-55
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-61
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:9-72
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-30:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-51
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-57
+meta-data#unity.strip-engine-code
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-45:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-51
+activity#com.unity3d.player.UnityPlayerGameActivity
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:9-72:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-57
+	android:enabled
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-35
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-48
+	android:exported
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-62
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-61:29
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:27-74
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:25-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:13-65:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:17-57
+meta-data#android.app.lib_name
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:13-68:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:68:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:67:17-52
+meta-data#notch_support
+ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:69:13-71:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:71:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\izzet\BTK_Hackathon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:70:17-45
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\d33ab72625923da81417b556e406915d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\izzet\.gradle\caches\transforms-3\d33ab72625923da81417b556e406915d\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\izzet\.gradle\caches\transforms-3\d466b44156994f5ad5a55e4cad6e310d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.DefaultCompany.BTK_Hackathon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.DefaultCompany.BTK_Hackathon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\izzet\.gradle\caches\transforms-3\e771f9ea7a97d7ada690f5df0c2fdcae\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\izzet\.gradle\caches\transforms-3\5a02d0faa1c8b7e7996eb7c7b12c2c18\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
